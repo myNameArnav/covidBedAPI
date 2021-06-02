@@ -1,6 +1,24 @@
 # covidBedAPI
 
-Overview
+-- Setup
+
+Step 1/
+    Have pip installed 
+
+Step 2/
+    run 
+        pip install -r requirements.txt
+
+Step 3/
+    Install MongoDB Compass
+
+Step 4/
+    run api.py
+
+Step 5/
+    Run API calls. all the details and Sample Input, Sample responce is in Overview.txt
+
+-- Overview
 
 Populate beds:
 	To populate the database with existing bookings
