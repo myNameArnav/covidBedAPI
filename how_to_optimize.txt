@@ -1,0 +1,3 @@
+We can use 
+
+1. Caching the API calls
