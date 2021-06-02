@@ -1,0 +1,25 @@
+Client Side:
+
+    Name:
+        name of person
+
+    Critical Level:
+        / Not Critical
+        / Critical
+        / Very Critical
+
+    Pincode:
+        pincode of location
+
+    Hospital:
+        Name of the Hospital
+
+    Time Slot:
+        / 00:00 - 03:00
+        / 03:00 - 06:00
+        / 06:00 - 09:00
+        / 09:00 - 12:00
+        / 12:00 - 15:00
+        / 15:00 - 18:00
+        / 18:00 - 21:00
+        / 21:00 - 00:00

@@ -1,0 +1,4 @@
+Flask==2.0.1
+flask-mongoengine==1.0.0
+mongoengine==0.23.1
+httpie==2.4.0
