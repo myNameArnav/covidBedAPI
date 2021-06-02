@@ -1,6 +1,6 @@
 # covidBedAPI
 
--- Setup
+## Setup
 
 Step 1/
 >    Have pip installed 
@@ -18,7 +18,7 @@ Step 4/
 Step 5/
 >    Run API calls. all the details and Sample Input, Sample responce is in Overview.txt
 
--- Overview
+## Overview
 
 Populate beds:
 	To populate the database with existing bookings
