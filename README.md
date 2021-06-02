@@ -3,20 +3,20 @@
 -- Setup
 
 Step 1/
-    Have pip installed 
+>    Have pip installed 
 
 Step 2/
     run 
-        pip install -r requirements.txt
+>        pip install -r requirements.txt
 
 Step 3/
-    Install MongoDB Compass
+>    Install MongoDB Compass
 
 Step 4/
-    run api.py
+>    run api.py
 
 Step 5/
-    Run API calls. all the details and Sample Input, Sample responce is in Overview.txt
+>    Run API calls. all the details and Sample Input, Sample responce is in Overview.txt
 
 -- Overview
 
