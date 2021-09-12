@@ -2,21 +2,15 @@
 
 ## Setup
 
-Step 1/
->    Have pip installed 
+1. Have pip installed 
 
-Step 2/
-    run 
->        pip install -r requirements.txt
+2. run `pip install -r requirements.txt`
 
-Step 3/
->    Install MongoDB Compass
+3. Install MongoDB Compass
 
-Step 4/
->    run api.py
+4. run api.py
 
-Step 5/
->    Run API calls. all the details and Sample Input, Sample responce is in Overview.txt
+5.  Run API calls. all the details and Sample Input, Sample responce is in Overview.txt
 
 ## Overview
 
@@ -37,6 +31,7 @@ Booked beds:
 				http http:5000/api/booked_beds
 
 			// Sample Response
+			
 
 				[
 					{
@@ -47,6 +42,7 @@ Booked beds:
 						"timeSlot": "06:00 - 09:00"
 					}
 				]
+
 
 Book bed:
 	To book bed with a time slot, name, id, critical level, hospital name, zipcode
@@ -86,7 +82,8 @@ Reschedule:
 
 		// Sample Input
 
-			echo {"_id": 3, "criticalLevel": "Not Critical", "hospitalName": "Appolo", "pincode": 110042, "timeSlot": "18:00 - 21:00"} | http PUT http://127.0.0.1:5000/api/reschedule/3
+			echo {"_id": 3, "criticalLevel": "Not Critical", "hospitalName": "Appolo", "pincode": 110042, "timeSlot": "18:00 - 21:00"} | 
+			http PUT http://127.0.0.1:5000/api/reschedule/3
 
 		// Sample Response
 
