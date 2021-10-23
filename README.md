@@ -10,7 +10,13 @@
 
 4. run api.py
 
-5.  Run API calls. all the details and Sample Input, Sample responce is in Overview.txt
+5.  Run API calls. 
+
+---
+	
+ _All the details, Sample Input and Sample response is in [Overview.txt](https://github.com/myNameArnav/covidBedAPI/blob/master/Overview.txt)_
+
+---
 
 ## Overview
 
